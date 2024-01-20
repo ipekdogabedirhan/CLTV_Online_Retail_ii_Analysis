@@ -1,0 +1,2 @@
+# CLTV_Online_Retail_ii_Analysis
+In this section will be CLTV_Analysis_on_online_reatail_ii_dataset
