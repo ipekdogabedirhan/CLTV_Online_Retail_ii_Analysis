@@ -4,7 +4,6 @@ In this section will be CLTV_Analysis_on_online_reatail_ii_dataset
 __________________________________________________________________
 
 **Content:**
-
 1. Import Necessary Libraries
 2. Import Dataset
 3. Data Preprocessing
